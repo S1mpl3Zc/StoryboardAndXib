@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4CA292611CB6604400F42C6B"
-               BuildableName = "DemoText.app"
-               BlueprintName = "DemoText"
-               ReferencedContainer = "container:DemoText.xcodeproj">
+               BlueprintIdentifier = "4C359C111CC4545500370E58"
+               BuildableName = "TextDemo.app"
+               BlueprintName = "TextDemo"
+               ReferencedContainer = "container:TextDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4CA2927A1CB6604400F42C6B"
-               BuildableName = "DemoTextTests.xctest"
-               BlueprintName = "DemoTextTests"
-               ReferencedContainer = "container:DemoText.xcodeproj">
+               BlueprintIdentifier = "4C359C2A1CC4545500370E58"
+               BuildableName = "TextDemoTests.xctest"
+               BlueprintName = "TextDemoTests"
+               ReferencedContainer = "container:TextDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4CA292851CB6604400F42C6B"
-               BuildableName = "DemoTextUITests.xctest"
-               BlueprintName = "DemoTextUITests"
-               ReferencedContainer = "container:DemoText.xcodeproj">
+               BlueprintIdentifier = "4C359C351CC4545500370E58"
+               BuildableName = "TextDemoUITests.xctest"
+               BlueprintName = "TextDemoUITests"
+               ReferencedContainer = "container:TextDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4CA292611CB6604400F42C6B"
-            BuildableName = "DemoText.app"
-            BlueprintName = "DemoText"
-            ReferencedContainer = "container:DemoText.xcodeproj">
+            BlueprintIdentifier = "4C359C111CC4545500370E58"
+            BuildableName = "TextDemo.app"
+            BlueprintName = "TextDemo"
+            ReferencedContainer = "container:TextDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,13 +75,18 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4CA292611CB6604400F42C6B"
-            BuildableName = "DemoText.app"
-            BlueprintName = "DemoText"
-            ReferencedContainer = "container:DemoText.xcodeproj">
+            BlueprintIdentifier = "4C359C111CC4545500370E58"
+            BuildableName = "TextDemo.app"
+            BlueprintName = "TextDemo"
+            ReferencedContainer = "container:TextDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
+         <AdditionalOption
+            key = "NSZombieEnabled"
+            value = "YES"
+            isEnabled = "YES">
+         </AdditionalOption>
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
@@ -94,10 +99,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4CA292611CB6604400F42C6B"
-            BuildableName = "DemoText.app"
-            BlueprintName = "DemoText"
-            ReferencedContainer = "container:DemoText.xcodeproj">
+            BlueprintIdentifier = "4C359C111CC4545500370E58"
+            BuildableName = "TextDemo.app"
+            BlueprintName = "TextDemo"
+            ReferencedContainer = "container:TextDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

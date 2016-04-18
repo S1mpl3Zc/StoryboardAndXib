@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  DemoText
+//  TextDemo
 //
-//  Created by S1mpl3 on 16/4/7.
+//  Created by S1mpl3 on 16/4/18.
 //  Copyright © 2016年 S1mpl3. All rights reserved.
 //
 
@@ -16,10 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSString *str = @"1459914200000";
-    double a = [str doubleValue];
-    NSLog(@"%.0f", a);
-    NSLog(@"%ld", NSIntegerMax);
+    self.navigationController.navigationBar.translucent = NO;
     // Do any additional setup after loading the view, typically from a nib.
 }
 

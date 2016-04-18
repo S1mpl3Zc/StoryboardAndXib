@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>DemoText.xcscheme</key>
+		<key>TextDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4CA292611CB6604400F42C6B</key>
+		<key>4C359C111CC4545500370E58</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4CA2927A1CB6604400F42C6B</key>
+		<key>4C359C2A1CC4545500370E58</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4CA292851CB6604400F42C6B</key>
+		<key>4C359C351CC4545500370E58</key>
 		<dict>
 			<key>primary</key>
 			<true/>

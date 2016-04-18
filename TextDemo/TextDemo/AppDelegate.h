@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  DemoText
+//  TextDemo
 //
-//  Created by S1mpl3 on 16/4/7.
+//  Created by S1mpl3 on 16/4/18.
 //  Copyright © 2016年 S1mpl3. All rights reserved.
 //
 
